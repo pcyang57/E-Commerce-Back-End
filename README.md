@@ -1,8 +1,8 @@
 # E-Commerce Back End
 
 ## Description
-  o build the back end for an e-commerce site in order to stay competitive with other e-commerce companies
-  https://github.com/axmedmohamed7@gmail.com/Ecomers-Back-End
+  This is the back end for an e-commerce site in order to stay competitive with other e-commerce companies
+  https://github.com/pcyang57/E-Commerce-Back-End
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
